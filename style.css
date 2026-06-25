@@ -1,0 +1,18 @@
+body {
+font-family: Arial;
+background: #f4f6fb;
+text-align: center;
+}
+
+h1 {
+color: #1f4e79;
+}
+
+#marketState {
+font-size: 20px;
+margin: 20px;
+}
+
+h2 {
+margin: 10px;
+}
